@@ -2,7 +2,7 @@
     "format_version": 1,
     "imports": [
         {
-            "target_table": "PERFORMANCE",
+            "target_table": "PERFORMANCEx",
             "source_data": {
                 "data_type": "CSV",
                 "file_name": "performance.csv",
